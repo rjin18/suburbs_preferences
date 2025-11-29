@@ -10,7 +10,7 @@ library(logr)
 
 #Note we will report robust SEs but to do so we need to use the starprep command
 
-setwd("/Users/richardjin/Documents/ECON 210A/Project")
+setwd("/yourpath")
 
 library(plyr)
 library(dplyr)
