@@ -10,7 +10,7 @@ library(logr)
 
 #Restrict sample to individuals who answered all 3 questions
 
-setwd("/Users/richardjin/Documents/ECON 210A/Project")
+setwd("/yourpath")
 
 library(plyr)
 library(dplyr)
