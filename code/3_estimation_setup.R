@@ -6,7 +6,7 @@
 #years of Election data and Census Vars. Goal is to create final county-level dataset
 #with 682 counties and then run specs in step 4
 
-setwd("/Users/richardjin/Documents/ECON 210A/Project/Data/")
+setwd("/yourpath")
 
 library(plyr)
 library(dplyr)
