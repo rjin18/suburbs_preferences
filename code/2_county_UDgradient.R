@@ -6,7 +6,7 @@
 #Clark (1951), known as the urban density gradient. Provides a simpler, more canonical measurement of suburbanization. 
 #Save separately and then merge in 3_estimation_setup.R
 
-setwd("/Users/richardjin/Documents/ECON 210A/Project/Data/")
+setwd("/yourpath")
 
 library(plyr)
 library(dplyr)
