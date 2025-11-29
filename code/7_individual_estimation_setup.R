@@ -9,7 +9,7 @@ library(logr)
 #consider social and economic dimensions. Create an individual-level dataset to feed into
 #the next R script where we will actually do the estimation
 
-setwd("/Users/richardjin/Documents/ECON 210A/Project/Data/")
+setwd("/yourpath")
 
 library(plyr)
 library(dplyr)
