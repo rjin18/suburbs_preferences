@@ -5,7 +5,7 @@
 #Start with county-level dataset created in 1_cleanGISoutput.R and create classification model using logistic regression
 #goal is to classify each county as suburb or city/urban based on the features defined in 1_cleanGISoutput.R
 
-setwd("/Users/richardjin/Documents/ECON 210A/Project/")
+setwd("/yourpath")
 
 library(plyr)
 library(dplyr)
