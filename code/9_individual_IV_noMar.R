@@ -11,7 +11,7 @@ library(logr)
 #Run specs using highway development as an instrument for suburbanization
 #Highway data from Baum-Snow (2007) replication files
 
-setwd("/Users/richardjin/Documents/ECON 210A/Project")
+setwd("/yourpath")
 
 library(plyr)
 library(dplyr)
