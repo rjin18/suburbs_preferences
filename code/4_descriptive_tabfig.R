@@ -4,7 +4,7 @@
 #4_descriptive_tabfig.R
 #Use this R-script to create descriptive tables/figures for the paper
 
-setwd("/Users/richardjin/Documents/ECON 210A/Project/Data/")
+setwd("/yourpath")
 
 library(plyr)
 library(dplyr)
