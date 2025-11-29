@@ -44,6 +44,3 @@ Decennial Census (county characteristics), Leip's Atlas (county presidential ele
 
 11_individual_tables.R
 - Run final specs at individual level 
-
-11_individual_tables.R
-- Run final specs at individual level and create tex output that will turn into Tables 4 and 5 and Appendix Tables C.1 and C.2
