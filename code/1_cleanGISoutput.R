@@ -4,7 +4,7 @@
 #1_cleanGISoutput.R
 #Take countyXcity level dataset produced in GIS and process it to the county level
 
-setwd("/Users/richardjin/Documents/ECON 210A/Project/Data/")
+setwd("/yourpath")
 
 library(plyr)
 library(dplyr)
