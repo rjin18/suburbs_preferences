@@ -13,7 +13,7 @@ library(logr)
 
 #Here we deviate from 9_XX by adding 1(EverMarried)
 
-setwd("/Users/richardjin/Documents/ECON 210A/Project")
+setwd("/yourpath")
 
 library(plyr)
 library(dplyr)
