@@ -9,7 +9,7 @@ library(logr)
 #LHS is social/economic preferences, RHS is county-level suburbanization
 #measure, as before, with individual-level demographic controls
 
-setwd("/Users/richardjin/Documents/ECON 210A/Project/Data/")
+setwd("/yourpath")
 
 library(plyr)
 library(dplyr)
